@@ -1,0 +1,143 @@
+{
+      "order_number": 1,
+      "date": "2021-10-10",
+      "time": "14:30",
+      "items": [
+        {
+          "dish": "Сливочный суп с морепродуктами",
+          "quantity": 4,
+          "ingredients": [
+            {"name": "Соль", "quantity": "100 гр"},
+            {"name": "Помидоры", "quantity": "500 гр"},
+            {"name": "Огурцы", "quantity": "500 гр"}
+          ]
+        },
+        {
+          "dish": "Сливочный суп с морепродуктами",
+          "quantity": 2,
+          "ingredients": [
+            {"name": "Помидоры", "quantity": "500 гр"}
+          ]
+        }
+      ],
+      "status": "Заказ не собран"
+    },
+    {
+      "order_number": 2,
+      "date": "2021-10-11",
+      "time": "15:00",
+      "items": [
+        {
+          "dish": "Картофельное пюре",
+          "quantity": 3,
+          "ingredients": [
+            {"name": "Картофель", "quantity": "600 гр"},
+            {"name": "Масло", "quantity": "50 гр"},
+            {"name": "Молоко", "quantity": "100 мл"}
+          ]
+        },
+        {
+          "dish": "Салат Цезарь",
+          "quantity": 2,
+          "ingredients": [
+            {"name": "Курица", "quantity": "200 гр"},
+            {"name": "Салатный лист", "quantity": "150 гр"},
+            {"name": "Помидоры", "quantity": "200 гр"},
+            {"name": "Сыр", "quantity": "100 гр"},
+            {"name": "Соус Цезарь", "quantity": "100 мл"}
+          ]
+        }
+      ],
+      "status": "Отдан в доставку"
+    },
+    {
+      "order_number": 3,
+      "date": "2021-10-12",
+      "time": "12:45",
+      "items": [
+        {
+          "dish": "Паста Болоньезе",
+          "quantity": 2,
+          "ingredients": [
+            {"name": "Паста", "quantity": "400 гр"},
+            {"name": "Фарш говяжий", "quantity": "300 гр"},
+            {"name": "Лук", "quantity": "1 шт"},
+            {"name": "Чеснок", "quantity": "2 зубчика"},
+            {"name": "Томатная паста", "quantity": "50 гр"},
+            {"name": "Соль", "quantity": "по вкусу"}
+          ]
+        },
+        {
+          "dish": "Омлет",
+          "quantity": 1,
+          "ingredients": [
+            {"name": "Яйца", "quantity": "2 шт"},
+            {"name": "Молоко", "quantity": "50 мл"},
+            {"name": "Соль", "quantity": "по вкусу"},
+            {"name": "Перец", "quantity": "по вкусу"},
+            {"name": "Масло растительное", "quantity": "20 гр"}
+          ]
+        }
+      ],
+      "status": "Заказ собран"
+    },
+    {
+      "order_number": 4,
+      "date": "2021-10-13",
+      "time": "13:30",
+      "items": [
+        {
+          "dish": "Пицца Пепперони",
+          "quantity": 1,
+          "ingredients": [
+            {"name": "Тесто для пиццы", "quantity": "1 шт"},
+            {"name": "Томатный соус", "quantity": "100 гр"},
+            {"name": "Салями", "quantity": "150 гр"},
+            {"name": "Перец Чили", "quantity": "1 шт"},
+            {"name": "Сыр Моцарелла", "quantity": "100 гр"}
+          ]
+        },
+        {
+          "dish": "Суп грибной",
+          "quantity": 3,
+          "ingredients": [
+            {"name": "Грибы", "quantity": "200 гр"},
+            {"name": "Картофель", "quantity": "300 гр"},
+            {"name": "Лук", "quantity": "1 шт"},
+            {"name": "Масло", "quantity": "50 гр"},
+            {"name": "Мука", "quantity": "20 гр"}
+          ]
+        }
+      ],
+      "status": "Заказ собран"
+    },
+    {
+      "order_number": 5,
+      "date": "2021-10-14",
+      "time": "11:00",
+      "items": [
+        {
+          "dish": "Борщ",
+          "quantity": 2,
+          "ingredients": [
+            {"name": "Свекла", "quantity": "300 гр"},
+            {"name": "Картофель", "quantity": "300 гр"},
+            {"name": "Морковь", "quantity": "200 гр"},
+            {"name": "Лук", "quantity": "1 шт"},
+            {"name": "Мясо", "quantity": "200 гр"}
+          ]
+        },
+        {
+          "dish": "Салат из свежих овощей",
+          "quantity": 1,
+          "ingredients": [
+            {"name": "Огурцы", "quantity": "200 гр"},
+            {"name": "Помидоры", "quantity": "200 гр"},
+            {"name": "Перец", "quantity": "150 гр"},
+            {"name": "Лимонный сок", "quantity": "50 мл"},
+            {"name": "Оливковое масло", "quantity": "30 мл"}
+          ]
+        }
+      ],
+      "status": "Заказ собран"
+    }
